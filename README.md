@@ -2,7 +2,7 @@
 - 👀 I’m interested in tecnology and inversion 
 - 🌱 I’m currently learning languages and music
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: on discord
+- 📫 How to reach me: on discord eDean v.13.4ᵒᶠᵏ#3932
 
 <!---
 soulcoster/soulcoster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
